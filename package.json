@@ -1,0 +1,17 @@
+{
+  "name": "wpmf-react-mobx-appdict",
+  "version": "1.0.0",
+  "description": "Dictionary app (React + Mobx + WebPack Module Federation)",
+  "keywords": [
+    "React",
+    "Mobx",
+    "ModuleFederation"
+  ],
+  "author": "MightZ",
+  "license": "ISC",
+  "workspaces": [
+    "packages/app",
+    "packages/stat",
+    "packages/action"
+  ]
+}

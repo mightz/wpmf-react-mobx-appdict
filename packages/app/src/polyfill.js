@@ -1,0 +1,9 @@
+import 'core-js/es/map';
+import 'core-js/es/set';
+import 'core-js/es/promise';
+import 'core-js/modules/es.symbol';
+import 'core-js/modules/es.array.filter';
+import 'core-js/modules/es.array.from';
+import 'core-js/modules/es.object.assign';
+import 'core-js/modules/es.object.entries';
+import 'core-js/modules/es.object.values';

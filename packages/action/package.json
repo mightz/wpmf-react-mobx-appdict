@@ -1,0 +1,29 @@
+{
+  "name": "@wpmf-react-mobx-appdict/action",
+  "version": "1.0.0",
+  "description": "Dictionary app actions component",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --mode development --watch",
+    "build": "webpack --mode production"
+  },
+  "author": "MightZ",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.16.5",
+    "@babel/plugin-transform-runtime": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "@babel/preset-react": "^7.16.5",
+    "babel-loader": "^8.2.3",
+    "html-webpack-plugin": "^5.5.0",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "mobx": "^6.3.10",
+    "mobx-react-lite": "^3.2.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
